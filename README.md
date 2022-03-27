@@ -1,2 +1,2 @@
 # field-tests
-For field testing documents and processing scripts for ApRES
+For field testing documents and field processing scripts for ApRES
